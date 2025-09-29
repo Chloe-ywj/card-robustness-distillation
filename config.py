@@ -1,6 +1,7 @@
 # config.py
 # 模型参数
-TEACHER_MODEL = "textattack/bert-base-uncased-imdb"
+#TEACHER_MODEL = "textattack/bert-base-uncased-imdb"
+TEACHER_MODEL = "dfurman/deberta-v2-xxl-imdb-v0.1"
 STUDENT_MODEL = "distilbert-base-uncased"
 
 # 数据集参数
