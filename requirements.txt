@@ -1,0 +1,8 @@
+torch==2.0.1+cu117
+transformers==4.30.1
+datasets==2.4.0
+textattack==0.3.10
+tqdm==4.49.0
+pandas==1.0.5
+numpy==1.23.5
+Python 3.8.3

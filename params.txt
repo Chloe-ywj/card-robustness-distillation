@@ -1,0 +1,6 @@
+#deberta-v2-xxlarge
+Total parameters: 1,571,635,204
+Trainable parameters: 3,074
+#distilbert-base-uncased
+Total parameters: 66,955,010
+Trainable parameters: 66,955,010
